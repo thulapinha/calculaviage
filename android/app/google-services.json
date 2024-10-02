@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991390588910",
+    "project_id": "testecaluloconsumo",
+    "storage_bucket": "testecaluloconsumo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991390588910:android:5a1bb7017e97f6a55038ff",
+        "android_client_info": {
+          "package_name": "com.example.testecalculoviage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhaq3wJ8HS0FXIWDtgCOM4MGr_HwHhXuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

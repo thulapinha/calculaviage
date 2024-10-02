@@ -1,0 +1,48 @@
+name: TruckList
+description: "Projeto individul para ser usado apenas como check list na empresa de transport."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.11
+  share: ^2.0.4
+  shared_preferences: ^2.0.13
+  firebase_database:
+  firebase_core:
+  cloud_firestore:
+  firebase_messaging:
+  screenshot: ^1.2.3
+  flutter_masked_text2:
+  intl: ^0.17.0
+  brasil_fields:
+  flutter_launcher_icons:
+  sqflite: ^2.0.0+4
+
+
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/truck_list.png"
+  min_sdk_android: 21
+
+flutter:
+
+
+  uses-material-design: true
+assets:
+  - assets/images/truck_list.png
